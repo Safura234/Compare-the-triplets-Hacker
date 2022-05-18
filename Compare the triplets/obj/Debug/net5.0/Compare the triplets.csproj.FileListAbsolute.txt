@@ -1,0 +1,16 @@
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\bin\Debug\net5.0\Compare the triplets.exe
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\bin\Debug\net5.0\Compare the triplets.deps.json
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\bin\Debug\net5.0\Compare the triplets.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\bin\Debug\net5.0\Compare the triplets.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\bin\Debug\net5.0\Compare the triplets.dll
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\bin\Debug\net5.0\Compare the triplets.pdb
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\obj\Debug\net5.0\Compare the triplets.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\obj\Debug\net5.0\Compare the triplets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\obj\Debug\net5.0\Compare the triplets.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\obj\Debug\net5.0\Compare the triplets.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\obj\Debug\net5.0\Compare the triplets.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\obj\Debug\net5.0\Compare the triplets.dll
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\obj\Debug\net5.0\refint\Compare the triplets.dll
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\obj\Debug\net5.0\Compare the triplets.pdb
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\obj\Debug\net5.0\Compare the triplets.genruntimeconfig.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Compare the triplets\Compare the triplets\obj\Debug\net5.0\ref\Compare the triplets.dll
